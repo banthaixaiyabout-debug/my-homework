@@ -1,11 +1,4 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@400;500;600;700&display=swap');
-
-
-body, button, input, select, textarea {
-  font-family: 'Noto Sans Lao', sans-serif !important;
-}
-
 
 :root {
   --background: #ffffff;
